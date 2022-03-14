@@ -1,8 +1,8 @@
-##Single-responsibility Principle
+## Single-responsibility Principle
 
 Uma classe deve ter apenas um trabalho.
 
-###Exemplo
+### Exemplo
 
 No exemplo utilizado nesse principio temos como forma errada de escrever uma classe chamada _User_ que tem dentro de si um método para também salvar/criar um registro no banco.
 

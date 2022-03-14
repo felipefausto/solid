@@ -1,8 +1,8 @@
-##Single-responsibility Principle
+## Single-responsibility Principle
 
 Objetos ou entidades devem estar abertas a extensões mas fechadas para modificações.
 
-###Exemplo
+### Exemplo
 
 No exemplo utilizado, tivemos que calcular a area total de alguns objetos e para fazer isso precisamos da classe _Calculator_ que apenas faz a soma da area de cada objeto.
 
